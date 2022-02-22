@@ -2,7 +2,7 @@ divided = []
 divided_cubed = []
 
 for number in range(0,101):
-    if number % 4 == 0:
+    if number % 3 == 0:
         divided.append(number)
 
 for i in divided:
